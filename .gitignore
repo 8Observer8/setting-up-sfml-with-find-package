@@ -1,3 +1,5 @@
+.idea/
+.qtcreator/
 build/
+cmake-build-debug/
 dist/
-CMakeLists.txt.user
